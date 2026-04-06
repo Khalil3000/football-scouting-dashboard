@@ -22,27 +22,28 @@ Custom Scouting Score combining multiple performance metrics
 Filtering by position (focus on forwards)
 Top N player analysis
 Cleaned and transformed dataset using Python and Power Query
+
 🧠 Metrics Used
 Goals per 90
 Assists per 90
 Goal Contributions per 90
 Efficiency Rating
 Custom Scouting Score
+
 🔄 Data Pipeline
 Data ingestion and cleaning using Python (Pandas)
 Feature engineering and metric calculation
 SQL queries for structured data handling
 Data modeling and visualization in Power BI
+
 ⚙️ Tools & Technologies
 Python (Pandas)
 SQL (SQLite)
 Power BI
 Power Query
 GitHub
-📈 Future Improvements
-Add advanced metrics (xG, xA)
-Include multiple leagues
-Build automated data pipeline
+
+
 👤 Author
 
 Khalil Raslan Mashinesh
