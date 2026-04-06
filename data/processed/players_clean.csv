@@ -1,0 +1,51 @@
+Player,Team,Position_Group,Minutes,Goals,Assists,Goals_Per_90,Assists_Per_90,Goal_Contributions_Per_90,Efficiency_Rating
+David Raya,Arsenal,GK,3420,0,0,0.0,0.0,0.0,0.51
+William Saliba,Arsenal,DEF,3420,2,1,0.05,0.03,0.08,0.63
+Emiliano Martinez,Aston Villa,GK,3330,0,0,0.0,0.0,0.0,0.36
+Declan Rice,Arsenal,MID,3250,7,8,0.19,0.22,0.42,0.91
+Dominic Solanke,Bournemouth,FWD,3250,19,3,0.53,0.08,0.61,1.58
+Gabriel Magalhaes,Arsenal,DEF,3240,4,1,0.11,0.03,0.14,0.79
+Virgil van Dijk,Liverpool,DEF,3240,3,2,0.08,0.06,0.14,0.76
+Ollie Watkins,Aston Villa,FWD,3050,19,13,0.56,0.38,0.94,2.3
+Bruno Fernandes,Manchester United,MID,3020,10,8,0.3,0.24,0.54,1.11
+Bukayo Saka,Arsenal,FWD,2980,16,9,0.48,0.27,0.76,1.83
+Ederson,Manchester City,GK,2970,0,0,0.0,0.0,0.0,0.41
+Rodri,Manchester City,MID,2950,8,9,0.24,0.27,0.52,1.12
+Martin Odegaard,Arsenal,MID,2950,8,10,0.24,0.31,0.55,1.2
+Son Heung-min,Tottenham,FWD,2920,17,10,0.52,0.31,0.83,2.0
+James Ward-Prowse,West Ham,MID,2900,7,11,0.22,0.34,0.56,1.09
+Douglas Luiz,Aston Villa,MID,2890,9,5,0.28,0.16,0.44,0.9
+Jarrod Bowen,West Ham,FWD,2890,16,6,0.5,0.19,0.69,1.69
+Phil Foden,Manchester City,MID,2890,19,8,0.59,0.25,0.84,2.04
+Kai Havertz,Arsenal,FWD,2890,13,7,0.4,0.22,0.62,1.38
+Cole Palmer,Chelsea,MID,2880,22,11,0.69,0.34,1.03,2.61
+Anthony Gordon,Newcastle United,FWD,2800,11,10,0.35,0.32,0.68,1.41
+Ruben Dias,Manchester City,DEF,2790,1,0,0.03,0.0,0.03,0.5
+Mohamed Salah,Liverpool,FWD,2750,18,10,0.59,0.33,0.92,2.28
+Dejan Kulusevski,Tottenham,FWD,2680,8,3,0.27,0.1,0.37,0.72
+Nicolas Jackson,Chelsea,FWD,2650,14,5,0.48,0.17,0.65,1.4
+Matheus Cunha,Wolves,FWD,2650,12,7,0.41,0.24,0.65,1.5
+Erling Haaland,Manchester City,FWD,2580,27,5,0.94,0.17,1.12,2.89
+Alexander Isak,Newcastle United,FWD,2550,21,2,0.74,0.07,0.81,2.22
+Alisson Becker,Liverpool,GK,2520,0,1,0.0,0.04,0.04,0.54
+Bryan Mbeumo,Brentford,FWD,2520,8,7,0.29,0.25,0.54,1.12
+Amadou Onana,Everton,MID,2450,3,2,0.11,0.07,0.18,0.3
+Jean-Philippe Mateta,Crystal Palace,FWD,2450,16,4,0.59,0.15,0.73,1.56
+Darwin Nunez,Liverpool,FWD,2420,11,8,0.41,0.3,0.71,1.29
+Luis Diaz,Liverpool,FWD,2410,8,5,0.3,0.19,0.49,0.91
+Bernardo Silva,Manchester City,MID,2340,1,5,0.04,0.19,0.23,0.33
+Marcus Rashford,Manchester United,FWD,2310,7,2,0.27,0.08,0.35,0.71
+Ashley Young,Everton,DEF,2280,0,1,0.0,0.04,0.04,-0.05
+Chris Wood,Nottingham Forest,FWD,2230,14,0,0.57,0.0,0.57,1.21
+Eberechi Eze,Crystal Palace,MID,2180,11,4,0.45,0.17,0.62,1.46
+James Maddison,Tottenham,MID,2100,4,9,0.17,0.39,0.56,1.02
+Raheem Sterling,Chelsea,FWD,2010,8,4,0.36,0.18,0.54,1.02
+Leandro Trossard,Arsenal,FWD,1990,12,2,0.54,0.09,0.63,1.0
+Hwang Hee-chan,Wolves,FWD,1950,12,2,0.55,0.09,0.65,1.28
+Julian Alvarez,Manchester City,FWD,1820,11,8,0.54,0.4,0.94,1.55
+Yoane Wissa,Brentford,FWD,1580,12,2,0.68,0.11,0.8,1.52
+Gabriel Jesus,Arsenal,FWD,1520,4,5,0.24,0.3,0.53,0.78
+Kevin De Bruyne,Manchester City,MID,1380,4,10,0.26,0.65,0.91,1.72
+Pedro Neto,Wolves,FWD,1380,2,9,0.13,0.59,0.72,1.15
+Michael Olise,Crystal Palace,FWD,1340,10,6,0.67,0.4,1.07,2.16
+John Stones,Manchester City,DEF,1260,1,2,0.07,0.14,0.21,0.91

@@ -1,0 +1,11 @@
+Player,Team,Position_Group,Minutes,Goals,Assists,Goals_Per_90,Assists_Per_90,Goal_Contributions_Per_90,Efficiency_Rating,scouting_score
+Erling Haaland,Manchester City,FWD,2580,27,5,0.94,0.17,1.12,2.89,1.3840000000000001
+Michael Olise,Crystal Palace,FWD,1340,10,6,0.67,0.4,1.07,2.16,1.088
+Alexander Isak,Newcastle United,FWD,2550,21,2,0.74,0.07,0.81,2.22,1.057
+Mohamed Salah,Liverpool,FWD,2750,18,10,0.59,0.33,0.92,2.28,1.027
+Ollie Watkins,Aston Villa,FWD,3050,19,13,0.56,0.38,0.94,2.3,1.022
+Son Heung-min,Tottenham,FWD,2920,17,10,0.52,0.31,0.83,2.0,0.909
+Yoane Wissa,Brentford,FWD,1580,12,2,0.68,0.11,0.8,1.52,0.8840000000000001
+Julian Alvarez,Manchester City,FWD,1820,11,8,0.54,0.4,0.94,1.55,0.8620000000000001
+Bukayo Saka,Arsenal,FWD,2980,16,9,0.48,0.27,0.76,1.83,0.8340000000000001
+Jean-Philippe Mateta,Crystal Palace,FWD,2450,16,4,0.59,0.15,0.73,1.56,0.8260000000000001
