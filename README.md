@@ -26,7 +26,7 @@ The purpose of this project is to demonstrate how data can support scouting and 
 It also showcases my transition into data analytics and my ability to work with real-world datasets.
 
  📊 Dashboard Preview
- ![Dashboard](Power BI.png)
+ [Dashboard](Power BI.png)
 
 🚀 Future Improvements
 Add more advanced metrics (xG, xA)
